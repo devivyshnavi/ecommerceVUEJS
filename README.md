@@ -1,4 +1,4 @@
-# demo2
+# ecommerce_vuejs
 
 ## Project setup
 ```
